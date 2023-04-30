@@ -20,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  LinkedIn : www.linkedin.com/in/vinayak-rao00
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
